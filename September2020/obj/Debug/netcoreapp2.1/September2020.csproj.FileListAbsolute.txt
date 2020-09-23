@@ -1,0 +1,12 @@
+/Users/Shared/Project/September2020/September2020/bin/Debug/netcoreapp2.1/September2020.deps.json
+/Users/Shared/Project/September2020/September2020/bin/Debug/netcoreapp2.1/September2020.runtimeconfig.json
+/Users/Shared/Project/September2020/September2020/bin/Debug/netcoreapp2.1/September2020.runtimeconfig.dev.json
+/Users/Shared/Project/September2020/September2020/bin/Debug/netcoreapp2.1/September2020.dll
+/Users/Shared/Project/September2020/September2020/bin/Debug/netcoreapp2.1/September2020.pdb
+/Users/Shared/Project/September2020/September2020/obj/Debug/netcoreapp2.1/September2020.csprojAssemblyReference.cache
+/Users/Shared/Project/September2020/September2020/obj/Debug/netcoreapp2.1/September2020.AssemblyInfoInputs.cache
+/Users/Shared/Project/September2020/September2020/obj/Debug/netcoreapp2.1/September2020.AssemblyInfo.cs
+/Users/Shared/Project/September2020/September2020/obj/Debug/netcoreapp2.1/September2020.csproj.CoreCompileInputs.cache
+/Users/Shared/Project/September2020/September2020/obj/Debug/netcoreapp2.1/September2020.dll
+/Users/Shared/Project/September2020/September2020/obj/Debug/netcoreapp2.1/September2020.pdb
+/Users/Shared/Project/September2020/September2020/obj/Debug/netcoreapp2.1/September2020.genruntimeconfig.cache
